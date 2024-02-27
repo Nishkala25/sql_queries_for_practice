@@ -100,6 +100,11 @@ where sal >=1250 and sal<=3000;
 select * from emp
 where sal between 1250 and 3000;
 
+
+
+--BETWEEN OPERATOR
+
+
 --WAQTD  emp name, job and commission given to all the salesman or analyst if they are getting commission between 300 and 1400.
 select ename, job, comm
 from emp
