@@ -34,17 +34,17 @@ select ename, job, hiredate
 from emp
 where hiredate > '31-Dec-80' and hiredate < '01-Jan-82' ;
 
-WAQTD emp name and salary given to all the emp's if the emp getting commission 0.
+--WAQTD emp name and salary given to all the emp's if the emp getting commission 0.
 select ename, sal
 from emp
 where comm = 0;
 
-WAQTD details of the emp along with annual salary if the emp getting annual salary more than 20000.
+--WAQTD details of the emp along with annual salary if the emp getting annual salary more than 20000.
 select emp.*, sal*12 as annual_salary
 from emp
 where (sal*12)>20000;
 
-WAQTD emp name job and dept no if the emp working as a clerk in dept no 20.
+--WAQTD emp name job and dept no if the emp working as a clerk in dept no 20.
 select ename, job, deptno
 from emp
 where job = "CLERK" and deptno = 20;
