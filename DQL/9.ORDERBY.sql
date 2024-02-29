@@ -1,0 +1,1 @@
+--WAQTD details of an employee and arrange the table in descending order based on annual salary 

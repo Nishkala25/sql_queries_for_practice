@@ -1,0 +1,7 @@
+--WAQTD minimum salary given to all the employees in each department. 
+--WAQTD total salary needed to pay for all the employees in each job. 
+--WAQTD number of employees working as a manager in each department. 
+--WAQTD average salary needed to pay for all the analyst and clerk in each department. 
+--WAQTD number of employees getting salary more than 1250 in each job. 
+--WAQTD maximum salary, min salary and average salary given to all the employees whose name contains 'A' in it in each department. 
+--WAQTD maximum salary given to all the employees if they were getting maximum salary more than 200 in each department 

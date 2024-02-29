@@ -1,0 +1,33 @@
+----WAQTD details of an employee if the employee getting salary more than 'blake' salary. 
+--WAQTD employee name and hiredate if they were hired after miller. 
+--WAQTD details of an employee if the employee working in same job as allen job. 
+-- above query except Allen. 
+--WAQTD number of employees working in same department as turner's department. 
+--WAQTD details of an employee if they are hired after Smith and getting salary more than 2000. 
+--WAQTD employee name, salary, job if the employee working as a salesman and getting salary more than Martin. 
+--WAQTD details of an employee if the employee hired after Martin but before 87. 
+--WAQTD details of an employee if they were hired after 'jones' but before Miller 
+--WAQTD employee name, job, sal if the employee getting salary more than Martin but less than president and they are working as salesman or manager. 
+--WAQTD details of an employee if the employee hired after 81 but before Clark. 
+--WAQTD dname of blake. 
+--WAQTD Location name of Miller
+--WAQTD details of the employee if the employee working in Chicago. 
+--WAQTD number of employees working in sales department. 
+--WAQTD department name of salesman 
+--WAQTD the name of employee if the employee is working in Dallas. 
+--WAQTD the details of employee who are working in accounting department. 
+--WAQTD the details of employee who are working in accounting department or research department 
+--WAQTD the details of employee if they were working in Chicago or Dallas. 
+--WAQTD The department name and location if the employee working as salesman or managers and getting salary more than Smith. 
+--WAQTD number of employees working in Chicago and getting salary more than Martins salary. 
+--WAQTD location name in which at least four employees are working. 
+--WAQTD department name in which at least three salesman are working. 
+--WAQTD department name of employee if the employee was hired after Smith. 
+--WAQTD the details of employee if the employee getting salary more than blake salary. 
+--WAQTD The details of employee if the employee getting salary more than all salesman. 
+--WAQTD the name of employee if the employee getting salary more than any of the analyst. 
+--WAQTD details of employee if they were working in Chicago or Dallas and getting salary more than any of the clerk and they were working as salesman, manager or analyst. 
+--WAQTD the details of employee who is getting maximum salary 
+--WAQTD location of the employee if they are having maximum salary and minimum salary. 
+--WAQTD details of employee who is getting second maximum salary. 
+--WAQTD details of employee who is getting third minimum salary.
